@@ -15,3 +15,13 @@ Para ejecutar la grafica de torta debes seguir las siguientes instrucciones en l
 cd charts
 python3 main.py
 ```
+
+# App Project
+
+```sh
+git clone
+cd app
+source env/bin/activate
+pip3 install -r requirements.txt
+pip3 install main.py
+```
